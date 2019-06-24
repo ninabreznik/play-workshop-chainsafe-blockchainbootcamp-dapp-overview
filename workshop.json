@@ -22,7 +22,7 @@
   }, {
     "title": "Try out the code",
     "lesson": "src/lessons/code.pdf",
-    "tool": "https://play.ethereum.org/editor-solidity/",
+    "tool": "https://playproject.io/editor-solidity/",
     "info": "src/info/code.md"
   }, {
     "title": "Rights Management - example",
@@ -39,7 +39,7 @@
   }
  ],
   "needs": [
-    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction/"
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-ethereum-focused/"
   ],
   "unlocks": [
 
